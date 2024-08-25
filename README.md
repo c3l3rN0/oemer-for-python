@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/oemer.svg)](https://badge.fury.io/py/oemer)
 ![PyPI - License](https://img.shields.io/github/license/c3l3rNO/oemer-for-python)
 
-A fork of oemer by [@BreezeWhite](https://github.com/BreezeWhite/) which removes the command line part and replaces them with a simple python function to start it. You need to look in oemer->ete.py. 
+A fork of [oemer](https://github.com/BreezeWhite/oemer) by [@BreezeWhite](https://github.com/BreezeWhite/) which removes the command line part and replaces them with a simple python function to start it. You need to look in oemer->ete.py. 
 This file contains the main() function (very last line). 
 
 What is oemer
